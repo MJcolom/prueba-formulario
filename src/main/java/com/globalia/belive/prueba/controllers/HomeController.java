@@ -1,6 +1,6 @@
 package com.globalia.belive.prueba.controllers;
 
-import com.globalia.belive.prueba.Entities.User;
+import com.globalia.belive.prueba.entities.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.CacheManager;
 import org.springframework.stereotype.Controller;

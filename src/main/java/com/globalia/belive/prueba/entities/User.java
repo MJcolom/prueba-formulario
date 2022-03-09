@@ -1,4 +1,4 @@
-package com.globalia.belive.prueba.Entities;
+package com.globalia.belive.prueba.entities;
 
 
 
